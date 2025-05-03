@@ -12,7 +12,7 @@ Performed By:
 Professor:
 - Aaron Nanas
 
-Click on 'ECE425_Final_Project_Report" to view the report that contains additional details
+Click on 'ECE425_Final_Project_Report' to view the report that contains additional details
 
 # Project Goals
 - Demonstrate embedded systems concepts
