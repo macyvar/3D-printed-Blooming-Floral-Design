@@ -31,10 +31,6 @@ Click on 'ECE425_Final_Project_Report' to view the report that contains addition
 - Button Control Demo: [Link]
 - Motion Sensor Control Demo: [Link]
 
-# 3D Design
-![Image](https://github.com/user-attachments/assets/3b287ff7-df22-49b9-ad22-7f59f2f394b7)
-![Image](https://github.com/user-attachments/assets/607cbd0c-fd04-499a-b422-ddad21d295f2)
-![Image](https://github.com/user-attachments/assets/b4c5e71d-284b-4ea3-a8d8-961f65828251)
 
 # Project Description
 Implemented in C on the TM4C123 microcontroller platform, this project integrates embedded systems and mechanical design to control a 3D-printed blooming flower. The project achieves the following:
@@ -109,3 +105,8 @@ Implemented in C on the TM4C123 microcontroller platform, this project integrate
  | Servo PWM Input Signal (Yellow Wire) | PF2
  | Servo VCC (Red Wire) | 5V
  | Servo GND (Black Wire) | GND
+ 
+ # 3D Design
+![Image](https://github.com/user-attachments/assets/3b287ff7-df22-49b9-ad22-7f59f2f394b7)
+![Image](https://github.com/user-attachments/assets/607cbd0c-fd04-499a-b422-ddad21d295f2)
+![Image](https://github.com/user-attachments/assets/b4c5e71d-284b-4ea3-a8d8-961f65828251)
