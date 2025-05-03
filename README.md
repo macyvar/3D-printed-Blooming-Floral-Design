@@ -45,13 +45,12 @@ Implemented in C on the TM4C123 microcontroller platform, this project integrate
 
 - Implemented dual control modes on the microcontroller:
   - Manual Mode (PMOD BTN):
-  - GPIO pins PA2–PA5 read button input using interrupt-driven event handling
-  - Each button press sets a predefined servo position (e.g., fully closed, half bloom, fully open)
-
+      - GPIO pins PA2–PA5 read button input using interrupt-driven event handling
+      - Each button press sets a predefined servo position (e.g., fully closed, half bloom, fully open)
  - Automatic Mode (PMOD ALS):
-  - Light sensor data is read via SPI using SSI2 (PB4–PB6)
-  - The servo opens the flower when ambient light exceeds a threshold (e.g., from a flashlight or sunlight)
-  - Ambient light level is also displayed on EduBase LEDs by outputting the top 4 bits of the 8-bit sensor value
+      - Light sensor data is read via SPI using SSI2 (PB4–PB6)
+      - The servo opens the flower when ambient light exceeds a threshold (e.g., from a flashlight or sunlight)
+      - Ambient light level is also displayed on EduBase LEDs by outputting the top 4 bits of the 8-bit sensor value
 
 - PWM control implemented using Module 1 Generator 3 (PF2, M1PWM6) for the servo motor
   - PWM signal frequency: 50 Hz
