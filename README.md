@@ -74,6 +74,7 @@ Implemented in C on the TM4C123 microcontroller platform, this project integrate
   - Future improvements could include an integrated electronics enclosure and high-resolution resin printing for finer petal detail
 
  # Block Diagram
+ ![Image](https://github.com/user-attachments/assets/d2e53a00-e8b3-41da-88ea-2a3454e62eb6)
 
  # Parts
  | Part | QTY | Proce $ | Link|
