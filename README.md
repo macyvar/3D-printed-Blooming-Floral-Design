@@ -44,10 +44,10 @@ Implemented in C on the TM4C123 microcontroller platform, this project integrate
   - Petals open as the axle rises and close as it lowers, mimicking natural blooming
 
 - Implemented dual control modes on the microcontroller:
-  - Manual Mode (PMOD BTN):
+    - Manual Mode (PMOD BTN):
       - GPIO pins PA2–PA5 read button input using interrupt-driven event handling
       - Each button press sets a predefined servo position (e.g., fully closed, half bloom, fully open)
- - Automatic Mode (PMOD ALS):
+    - Automatic Mode (PMOD ALS):
       - Light sensor data is read via SPI using SSI2 (PB4–PB6)
       - The servo opens the flower when ambient light exceeds a threshold (e.g., from a flashlight or sunlight)
       - Ambient light level is also displayed on EduBase LEDs by outputting the top 4 bits of the 8-bit sensor value
