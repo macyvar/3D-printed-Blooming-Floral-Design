@@ -13,6 +13,11 @@ Professor:
 - Aaron Nanas
 
 Click on 'ECE425_Final_Project_Report' to view the report that contains additional details
+Click on 'ECE425_Final_Project_Presentaion' to view the presentation for
+
+Video Demonstrations:
+- Manual Mode: [Link](https://www.youtube.com/shorts/sJubQrR22dA)
+- Automatic Mode: [Link](https://www.youtube.com/shorts/-aOCNeL3odc)
 
 # Project Goals
 - Demonstrate embedded systems concepts
