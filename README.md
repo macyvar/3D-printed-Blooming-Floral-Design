@@ -5,8 +5,10 @@ A 3D-printed flower that opens and closes using a servo controlled by a TM4C123 
 This project fulfills the final project requirement for the following classes at California State University, Northridge (CSUN):
 - ECE 425: Microprocessor Systems
 
-Performed By:
+Code and Hardware Application By:
 - Macy Varga
+
+3D Print Design By:
 - Vedi Vartani
 
 Professor:
